@@ -1,5 +1,85 @@
 # Changelog
 
+## [4.2.1](https://github.com/XPoet/hexo-theme-keep/compare/v4.2.0...v4.2.1) (2024-07-29)
+
+
+### 📖 Docs
+
+* **language:** update Traditional Chinese ([9330df8](https://github.com/XPoet/hexo-theme-keep/commit/9330df8e3cb7e795197c414f9d40cf6ddaa2d9a4))
+
+
+### 💄 Improvement UI
+
+* optimize the style of the secondary navigation menu ([075429b](https://github.com/XPoet/hexo-theme-keep/commit/075429b6ef9d93a822c46adb2d19dad240072195))
+
+## [4.2.0](https://github.com/XPoet/hexo-theme-keep/compare/v4.1.5...v4.2.0) (2024-07-15)
+
+
+### 🌟 Features
+
+* supports secondary menu configuration in mobile ([7b32ee5](https://github.com/XPoet/hexo-theme-keep/commit/7b32ee56511c776fb33e6bdebf9a48d7fc9ee6a7))
+* supports secondary menu configuration in pc ([ae9fa33](https://github.com/XPoet/hexo-theme-keep/commit/ae9fa33fa225847ed1fd157333dd144fb6bd196d))
+
+
+### 🐞 Bug Fixes
+
+* fixed the problem of code block fold failure ([#346](https://github.com/XPoet/hexo-theme-keep/issues/346)) ([dfb0758](https://github.com/XPoet/hexo-theme-keep/commit/dfb07584852d8ed5f236d3681cb4d79dccee3cc7))
+* optimize judgment logic of scroll to top of page ([#342](https://github.com/XPoet/hexo-theme-keep/issues/342)) ([017540a](https://github.com/XPoet/hexo-theme-keep/commit/017540a649a883fc9e700a264688f1a68f29b9fb))
+
+
+### 🍭 Code Refactoring
+
+* refactoring page template usage logic ([ab51486](https://github.com/XPoet/hexo-theme-keep/commit/ab5148648cc304021d7d0ebd49294b66c8329123))
+
+
+### 🛠 Performance Improvements
+
+* optimize menu nav active setting ([81f2c77](https://github.com/XPoet/hexo-theme-keep/commit/81f2c77f5008eb7fe02a3e4764c6ba2c392892c4))
+* optimize paginator ([e1cb4c2](https://github.com/XPoet/hexo-theme-keep/commit/e1cb4c2509637e6cabf16a8d7bd21ebab72a52f8))
+* optimize theme mode toggle ([#339](https://github.com/XPoet/hexo-theme-keep/issues/339)) ([8928105](https://github.com/XPoet/hexo-theme-keep/commit/8928105bef2bd4406d5cd2b57dcb834da7208e4e))
+
+
+### 💄 Improvement UI
+
+* clear header shrink after page jump ([748ed43](https://github.com/XPoet/hexo-theme-keep/commit/748ed436795a4798ceda181ce9745870d3341070))
+* optimize markdown style ([d486a7d](https://github.com/XPoet/hexo-theme-keep/commit/d486a7d26e34802f9797043b9217d64b4e231bb1))
+* optimize reward author style ([12d9215](https://github.com/XPoet/hexo-theme-keep/commit/12d9215a4ab42c9631df45e8100c0c012f40ed4e))
+
+## [4.1.5](https://github.com/XPoet/hexo-theme-keep/compare/v4.1.4...v4.1.5) (2024-07-05)
+
+
+### 🛠 Performance Improvements
+
+* **home:** optimize post updated time settings ([b444efd](https://github.com/XPoet/hexo-theme-keep/commit/b444efd8558835b3149133c8bed7bd34d074995e))
+* **post:** optimize article encryption function ([b189db5](https://github.com/XPoet/hexo-theme-keep/commit/b189db5e7a10d31dd3f132520188ce4d3324ee51))
+
+
+### 🎯 CI
+
+* update ISSUE_TEMPLATE ([27ef552](https://github.com/XPoet/hexo-theme-keep/commit/27ef552086d272df395322ccf181ec6a84eb1e8c))
+
+## [4.1.4](https://github.com/XPoet/hexo-theme-keep/compare/v4.1.3...v4.1.4) (2024-07-03)
+
+
+### 🐞 Bug Fixes
+
+* **code-block:** support diff highlight ([#330](https://github.com/XPoet/hexo-theme-keep/issues/330)) ([6e5aec1](https://github.com/XPoet/hexo-theme-keep/commit/6e5aec13ef732fe48639ac62ccf07fb3a830f216))
+
+
+### 🛠 Performance Improvements
+
+* built-in article encryption function ([54bf474](https://github.com/XPoet/hexo-theme-keep/commit/54bf47499f95ff0a27d54fd494de920f9e0461fd))
+
+
+### 🎯 CI
+
+* update ISSUE_TEMPLATE ([2d1c1c8](https://github.com/XPoet/hexo-theme-keep/commit/2d1c1c88aa91e4fed4fa51fef5b126fbe40daa03))
+
+
+### 💄 Improvement UI
+
+* optimize archive page style ([58aaf7d](https://github.com/XPoet/hexo-theme-keep/commit/58aaf7d0ae636232d7a16c7cf98a1a836f5d9e7d))
+
 ## [4.1.3](https://github.com/XPoet/hexo-theme-keep/compare/v4.1.2...v4.1.3) (2024-05-29)
 
 
